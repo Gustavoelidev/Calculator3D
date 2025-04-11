@@ -1,0 +1,4 @@
+[
+    { "nome": "Ender 3", "potencia": 220 },
+    { "nome": "Prusa MK3", "potencia": 250 }
+]
