@@ -1,4 +1,18 @@
 [
-    { "nome": "Ender 3", "potencia": 220 },
-    { "nome": "Prusa MK3", "potencia": 250 }
+    {
+        "nome": "Ender 3",
+        "potencia": 220
+    },
+    {
+        "nome": "Prusa MK3",
+        "potencia": 250
+    },
+    {
+        "nome": "BAMBU LAB A1 MINI",
+        "potencia": 150.0
+    },
+    {
+        "nome": "BAMBU LAB A1",
+        "potencia": 350.0
+    }
 ]
